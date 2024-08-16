@@ -29,7 +29,7 @@ function Login() {
             <form onSubmit={handleSubmit}>
                 <div className=''>
                 <label className=''>Email</label>
-                <input
+                <input 
                     type="email"
                     name='email'
                     placeholder="Email"

@@ -20,6 +20,4 @@ function App() {
     );
 }
 
-export default App;
-// testuser@example.com
-// $2b$10$0GwBtKLt6vX8dPGB.CGGD.UuJhlhxjF4phYo44Um/p9D.C.cKLx72
+export default App
